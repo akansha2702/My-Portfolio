@@ -152,6 +152,44 @@ const Experience = () => {
            
 
             <div class="timeline">
+            <div class="timeline__item">
+                <div class="circle__dot"></div>
+                <h3 class="timeline__title">Software Development Engineer</h3>
+                <p class="timeline__text">Hopstack</p>
+                <span class="timeline__date"
+                  ><i class="uil uil-calendar-alt"></i>
+                  July 2024 - Present
+                </span>
+                <ul>
+                  <li>
+                    • Bundling Summary Screen: Designed a user-friendly interface to display bundling statistics and built optimized Node.js APIs to streamline data retrieval and enhance warehouse workflows.
+                  </li>
+                  <li>
+                    • Rate Shopping Feature: Implemented carrier comparison and Incoterm selection with a React.js interface and optimized APIs for real-time updates and accurate data retrieval.
+                  </li>
+                  
+                  </ul> 
+              </div>
+              <div class="timeline__item">
+                <div class="circle__dot"></div>
+                <h3 class="timeline__title">Software Developer Intern</h3>
+                <p class="timeline__text">Hopstackś</p>
+                <span class="timeline__date"
+                  ><i class="uil uil-calendar-alt"></i>
+                  Feb 2024 - May 2024
+                </span>
+                <ul>
+                  <li>
+                    • Tax Calculation Functionality: Developed a system to calculate taxes on shipped items, reducing API errors and improving user input accuracy.
+                  </li>
+                  <li>
+                    • Payment Due Notifications: Implemented notifications for due and overdue payments, reducing overdue payments and improving compliance across 25,000+ accounts.
+                  </li>
+                  {/* <li>
+                    • Engaged proactively in team meetings, assisted in maintaining high code quality through participation in code reviews, providing valuable feedback, and optimizing performance.
+                  </li> */}
+                  </ul> 
+              </div> 
               <div class="timeline__item">
                 <div class="circle__dot"></div>
                 <h3 class="timeline__title">Software Developer Intern</h3>
@@ -172,7 +210,7 @@ const Experience = () => {
                   </li> */}
                   </ul> 
               </div>
-              <div class="timeline__item">
+              {/* <div class="timeline__item">
                 <div class="circle__dot"></div>
                 <h3 class="timeline__title">Tech Associate</h3>
                 <p class="timeline__text">Geekster</p>
@@ -191,8 +229,8 @@ const Experience = () => {
                   
                   </ul> 
                 
-              </div>
-              <div class="timeline__item">
+              </div> */}
+              {/* <div class="timeline__item">
                 <div class="circle__dot"></div>
                 <h3 class="timeline__title">DSA Mentor</h3>
                 <p class="timeline__text">Coding Ninjas</p>
@@ -211,7 +249,7 @@ const Experience = () => {
                   
                   </ul> 
                 
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
