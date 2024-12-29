@@ -173,7 +173,7 @@ const Experience = () => {
               <div class="timeline__item">
                 <div class="circle__dot"></div>
                 <h3 class="timeline__title">Software Developer Intern</h3>
-                <p class="timeline__text">Hopstackś</p>
+                <p class="timeline__text">Hopstack</p>
                 <span class="timeline__date"
                   ><i class="uil uil-calendar-alt"></i>
                   Feb 2024 - May 2024
