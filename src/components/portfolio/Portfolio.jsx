@@ -35,7 +35,7 @@ const data = [
     techstack : 'React.js | HTML | CSS ',
     title: 'Portfolio',
     github: 'https://github.com/akansha2002/Portfolio',
-    demo: 'https://portfolio-livid-eight-56.vercel.app/'
+    demo: 'https://akanshaaggarwal.vercel.app/'
 
   },
 
